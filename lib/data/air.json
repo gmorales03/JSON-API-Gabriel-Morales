@@ -1,0 +1,32 @@
+{
+    "status": "success",
+    "data": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "country": "USA",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -71.0542,
+                42.3631
+            ]
+        },
+        "current": {
+            "pollution": {
+                "ts": "2023-03-18T19:00:00.000Z",
+                "aqius": 8,
+                "mainus": "p2",
+                "aqicn": 3,
+                "maincn": "p2"
+            },
+            "weather": {
+                "ts": "2023-03-18T19:00:00.000Z",
+                "tp": 11,
+                "pr": 1002,
+                "hu": 40,
+                "ws": 2.24
+            }
+        }
+    }
+}
+
